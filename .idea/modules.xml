@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JokesAndroid/JokesAndroid.iml" filepath="$PROJECT_DIR$/JokesAndroid/JokesAndroid.iml" group="Test12-master/JokesAndroid" />
+      <module fileurl="file://$PROJECT_DIR$/JokesJava/JokesJava.iml" filepath="$PROJECT_DIR$/JokesJava/JokesJava.iml" group="Test12-master/JokesJava" />
+      <module fileurl="file://$PROJECT_DIR$/Test12-master.iml" filepath="$PROJECT_DIR$/Test12-master.iml" group="Test12-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Test12-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" group="Test12-master/backend" />
+    </modules>
+  </component>
+</project>
